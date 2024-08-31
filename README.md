@@ -6,7 +6,7 @@ Talking about the features of the Bank Management System, a user can create an a
 
 This project uses classes and file handling features of C++. In order to store all the user’s data, an external file (DAT file) is created by the system, so every time we get into the system we can operate with the existing accounts. Bank Management System is developed using C++ Programming Language and different variables, strings have been used for the development of it. Bank Management System in C++ Programming with source code is free to download. Use for educational purposes only! This project provides the simplest system for managing banking system.
 
-In order to run the project, you must have installed Dev C++ or Code Blocks on your PC. (we recommend these IDE). For the project demo, have a look at the image slider below.
+In order to run the project, you must have installed Dev C++ or VS Code on your PC. (we recommend these IDE). For the project demo, have a look at the image slider below.
 
 Features:
 
